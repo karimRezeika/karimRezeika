@@ -24,7 +24,7 @@
 <!-- ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png) -->
 
 
-### Connect with Me :
+### 📫 Connect with Me :
 
 <a href="https://www.linkedin.com/in/kairm-saad-a4933a240/" target="_blank"><img src="https://img.shields.io/badge/-Karim%20Rezieka-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <!-- <a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a> -->
