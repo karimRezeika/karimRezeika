@@ -17,7 +17,7 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with python, django, and ruby, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- ⚡  Instersted to learn about  cyber security (redteam) 
+- ⚡  Instersted to learn about  cyber security (redteaming) 
 <!-- - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on. -->
 
 
@@ -44,7 +44,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![HackTheBox](https://img.shields.io/badge/-HackTheBox-05122A?style=flat&logo=HackTheBox)&nbsp;
-![RedTeam](https://img.shields.io/badge/-RedTeam-05122A?style=flat&logo=RedTeam)&nbsp;
+![RedTeaming](https://img.shields.io/badge/-RedTeaming-05122A?style=flat&logo=RedTeaming)&nbsp;
 <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
  -->
