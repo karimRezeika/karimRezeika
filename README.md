@@ -43,6 +43,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 ![HackTheBox](https://img.shields.io/badge/-HackTheBox-05122A?style=flat&logo=HackTheBox)&nbsp;
 ![RedTeam](https://img.shields.io/badge/-RedTeam-05122A?style=flat&logo=RedTeam)&nbsp;
 <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
